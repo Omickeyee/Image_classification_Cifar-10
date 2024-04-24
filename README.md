@@ -6,7 +6,7 @@ The model is trained on the CIFAR-10 dataset and can classify images into 10 dif
 'plane', 'car', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck'.
 
 ```
-## Live Demo on Streamlit:
+## Live Demo :
 https://imageclassification-cifar-10.streamlit.app/
 
 ![ Image Examples](./screenshot.png) 

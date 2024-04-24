@@ -1,5 +1,5 @@
 
-# Image Classification  Streamlit
+# Image Classification Using Streamlit
 
 The model is trained on the CIFAR-10 dataset and can classify images into 10 different categories:
 ```

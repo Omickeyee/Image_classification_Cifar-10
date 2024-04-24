@@ -46,7 +46,7 @@ pip install -r requirements.txt
 Run the training script to train the model on the CIFAR-10 dataset.
 
 ```
-python image_classifier.py
+python model_training.py
 ```
 
 This will save the trained model as `image_classifier.pth`.

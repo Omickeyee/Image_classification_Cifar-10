@@ -57,7 +57,7 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 
 ## Features
 
-- Simple and intuitive UI built with Streamlit
+- Simple and interactive UI built with Streamlit
 - Fast and accurate image classification using a PyTorch model
 - Easy to set up and run locally
 

@@ -1,7 +1,7 @@
 
-# Image Classification using PyTorch and Streamlit
+# Image Classification  Streamlit
 
-This project is an image classification application using PyTorch and Streamlit. The model is trained on the CIFAR-10 dataset and can classify images into 10 different categories:
+The model is trained on the CIFAR-10 dataset and can classify images into 10 different categories:
 ```
 'plane', 'car', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck'.
 

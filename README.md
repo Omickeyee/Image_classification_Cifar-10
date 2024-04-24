@@ -30,7 +30,6 @@ This project is an image classification application using PyTorch and Streamlit.
 ```
 git clone https://github.com/Omickeyee/Image_classification_Cifar-10.git
 cd Image_classification_Cifar-10
-
 ```
 ### Install dependencies
 

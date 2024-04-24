@@ -11,11 +11,6 @@ The model is trained on the CIFAR-10 dataset and can classify images into 10 dif
 
 
 
-## Features
-
-- Simple and intuitive UI built with Streamlit
-- Fast and accurate image classification using a PyTorch model
-- Easy to set up and run locally
 
 ## Installation
 
@@ -60,4 +55,9 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 
 [You can Check it here](https://www.cs.toronto.edu/~kriz/cifar.html)
 
+## Features
+
+- Simple and intuitive UI built with Streamlit
+- Fast and accurate image classification using a PyTorch model
+- Easy to set up and run locally
 

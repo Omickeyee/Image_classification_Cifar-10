@@ -68,10 +68,4 @@ The dataset is divided into five training batches and one test batch, each with 
 
 [You can Check it here](https://www.cs.toronto.edu/~kriz/cifar.html)
 
-## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-MIT

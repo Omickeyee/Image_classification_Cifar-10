@@ -9,13 +9,7 @@ This project is an image classification application using PyTorch and Streamlit.
 
 ![ Image Examples](./screenshot.png) 
 
-## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 

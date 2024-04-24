@@ -28,7 +28,7 @@ This project is an image classification application using PyTorch and Streamlit.
 ### Clone the repository
 
 ```
-git clone https://github.com/RaheesAhmed/Image-Classifier.git
+git clone https://github.com/Omickeyee/Image_classification_Cifar-10.git
 cd Image-Classifier
 ```
 ### Install dependencies

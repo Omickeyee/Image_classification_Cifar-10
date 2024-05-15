@@ -7,6 +7,9 @@ The model is trained on the CIFAR-10 dataset and can classify images into 10 dif
 
 ```
 ## Live Demo :
+### Streamlit
+https://imageclassification-cifar-10.streamlit.app/
+
 ### Render
 https://image-classification-cifar-10.onrender.com/
 

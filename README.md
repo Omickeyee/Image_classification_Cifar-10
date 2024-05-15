@@ -7,7 +7,7 @@ The model is trained on the CIFAR-10 dataset and can classify images into 10 dif
 
 ```
 ## Live Demo :
-# Render
+### Render
 https://image-classification-cifar-10.onrender.com/
 
 ## Image Example :
